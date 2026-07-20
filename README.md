@@ -26,7 +26,11 @@
 ├── chapter 11 - 软件工程.md             # CMMI、敏捷、测试、维护
 ├── chapter 12 - 信息安全.md             # 防火墙、病毒、加密、网络攻击
 ├── chapter 13 - 计算机网络.md           # OSI模型、TCP/IP、子网划分
-└── chapter 14 - 算法.md                 # 分治、动态规划、贪心、回溯
+├── chapter 14 - 算法.md                 # 分治、动态规划、贪心、回溯
+├── chapter I - 试题一
+├── chapter II - 试题二
+├── chapter III - 试题三
+└── chapter IV - 试题四
 ```
 
 ## 🚀 如何使用
